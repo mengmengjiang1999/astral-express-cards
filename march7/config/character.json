@@ -1,0 +1,15 @@
+{
+  "name": "三月七",
+  "roman_name": "MARCH 7TH",
+  "affiliation": "星穹列车 · 无名客",
+  "role": "开拓行动支援",
+  "specialty": "队员防护 / 现场协作 / 影像记录",
+  "closing": "愿此行，终抵群星！",
+  "portrait": "assets/march7-portrait-clean.png",
+  "back_paths": [
+    "存护",
+    "巡猎",
+    "记忆"
+  ],
+  "back_affiliation": "星穹列车 / 无名客"
+}
